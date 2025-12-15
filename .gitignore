@@ -1,0 +1,11 @@
+# binaries
+a.out
+*.o
+*.out
+
+# editor files
+*.swp
+*.swo
+
+# build directories
+build/
