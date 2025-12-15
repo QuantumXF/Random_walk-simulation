@@ -27,7 +27,7 @@ This project is intended for learning and experimentation with C, SDL2, and basi
 
 ```bash
 gcc random_walk.c -o random_walk `sdl2-config --cflags --libs`
-./randomwalk 'number of agents'
+./random_walk 'number of agents'
 
 
 ## License
